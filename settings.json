@@ -1,0 +1,23 @@
+{
+    "workbench.colorTheme": "Mariana Nord",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.minimap.enabled": false,
+    "window.zoomLevel": 0,
+    "cSpell.userWords": [
+        "Nesto",
+        "Prox",
+        "Typograph",
+        "downpayment",
+        "fourplex",
+        "multichoice",
+        "rebass",
+        "validators"
+    ],
+    "rust.mode": "rls",
+    "rust.rustup": {
+        "nightlyToolchain": "nightly-x86_64-apple-darwin"
+    },
+    "rust.rls": {
+        "useRustfmt": true
+    }
+}
